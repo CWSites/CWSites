@@ -14,7 +14,6 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]()
@@ -44,25 +43,19 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />]()
 
 ### My interests...
-<span><img src="https://img.shields.io/badge/Atari-E4202E?style=for-the-badge&logo=atari&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Coinbase-0667D0?style=for-the-badge&logo=coinbase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/DC_Entertainment-0078F0?style=for-the-badge&logo=dc-entertainment&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Fandango-FF7300?style=for-the-badge&logo=fandango&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Ford-003478?style=for-the-badge&logo=ford&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/GIPHY-FF6666?style=for-the-badge&logo=giphy&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/haveibeenpwned-2A6379?style=for-the-badge&logo=haveibeenpwned&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Hulu-3DBB3D?style=for-the-badge&logo=hulu&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Jameson-004027?style=for-the-badge&logo=jameson&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=tesla&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Tomorrowland-000000?style=for-the-badge&logo=tomorrowland&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Waze-33CCFF?style=for-the-badge&logo=waze&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></span>
 
@@ -84,6 +77,7 @@ I'm a mac user through and through, don't ask me to work on a Windows machine...
 
 ### I can be found...
 [<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/CWSites)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/CWSites)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cwsites/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@CWSites)
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/1272404/cwsites)
