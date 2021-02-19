@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my arsenal. My current day-to-day consists of building a component library using React + Material UI and applying a thin wrapper over each of the components to allow for better test coverage and ease of consumption by other products within our organization. I spend roughly 10% of my work week learning about ethical hacking.
+I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. My current day-to-day consists of building a component library using React + Material UI and applying a thin wrapper over each of the components to allow for better test coverage and ease of consumption by other products within our organization. I spend roughly 10% of my work week learning about ethical hacking.
 
-### My arsenal...
+### My experience...
 [<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&logo=bower&logoColor=white" />]()
@@ -11,7 +11,6 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]()
@@ -64,7 +63,7 @@ I'm a mac user through and through, don't ask me to work on a Windows machine...
 <span><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Bose-000000?style=for-the-badge&logo=virtualbox&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></span>
