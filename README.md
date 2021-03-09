@@ -60,7 +60,7 @@ I've been in software development since 2004 and over the years have added a var
 
 I'm a mac user through and through, don't ask me to work on a Windows machine... I won't do it.
 
-<span><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Bose-000000?style=for-the-badge&logo=virtualbox&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></span>
