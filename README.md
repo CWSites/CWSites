@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. My current day-to-day consists of building a component library using React + Material UI and applying a thin wrapper over each of the components to allow for better test coverage and ease of consumption by other products within our organization. I spend roughly 10% of my work week learning about ethical hacking.
+I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. My current day-to-day consists of building a component library using React + Material UI, supporting the consumption by other products within our organization and improving the workflow and automation processes that we have in place. I spend roughly 10% of my work week learning about ethical hacking.
 
 ### My experience...
 [<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />]()
