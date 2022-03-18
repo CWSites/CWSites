@@ -2,8 +2,6 @@
 
 I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. My current day-to-day consists of building a component library using React + Material UI, supporting the consumption by other products within our organization and improving the workflow and automation processes that we have in place. I spend roughly 10% of my work week learning about ethical hacking and front-end architecture.
 
-Outside of my day job I'm also working on a new crypto coin project, we will be launching on Feb 1, 2022!
-
 ### My experience...
 [<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />]()
