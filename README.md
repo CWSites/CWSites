@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. My current day-to-day consists of building a component library using React + Material UI, supporting the consumption by other products within our organization and improving the workflow and automation processes that we have in place. I spend roughly 10% of my work week learning about ethical hacking and front-end architecture.
+I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. My current day-to-day consists of building a component library using React + Material UI, supporting the consumption by other products within our organization and improving the workflow and automation processes that we have in place.
 
 ### My experience...
 [<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />]()
@@ -73,7 +73,6 @@ I'm a mac user through and through, don't ask me to work on a Windows machine...
 
 
 ### I can be found...
-[<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/CWSites)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/CWSites)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cwsites/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@cwsites)
