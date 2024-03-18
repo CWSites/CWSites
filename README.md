@@ -65,9 +65,11 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" />]()
 [<img src="https://img.shields.io/badge/Material Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />]()
@@ -108,8 +110,6 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Bose-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Visual Studio Code-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />]()
 
 ### I can be found...
