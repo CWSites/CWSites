@@ -4,14 +4,14 @@ I've been in software development since 2004 and over the years have added a var
 
 ### My coding experience...
 [<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />]()
-[<img src="https://img.shields.io/badge/Backendless-000000?style=for-the-badge&logo=backendless&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Backendless-1D77BD?style=for-the-badge&logo=backendless&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&logo=bower&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartjs&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />]()
@@ -29,6 +29,7 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Nrwl-96D7E8?style=for-the-badge&logo=nrwl&logoColor=black" />]()
@@ -47,15 +48,26 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />]()
 
 ### My software experience...
-[<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Buffer-231F20?style=for-the-badge&logo=buffer&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Campaign Monitor-111324?style=for-the-badge&logo=campaignmonitor&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Evernote-00A82D?style=for-the-badge&logo=evernote&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/GitHub CoPilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" />]()
@@ -80,6 +92,7 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />]()
 
 ### My interests...
+[<img src="https://img.shields.io/badge/AllTrails-428813?style=for-the-badge&logo=alltrails&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Apple TV-000000?style=for-the-badge&logo=appletv&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Atari-E4202E?style=for-the-badge&logo=atari&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />]()
@@ -107,8 +120,9 @@ I've been in software development since 2004 and over the years have added a var
 ### My setup...
 
 [<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Bose-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Bose-000000?style=for-the-badge&logo=bose&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Visual Studio Code-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />]()
 
