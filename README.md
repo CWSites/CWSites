@@ -129,7 +129,6 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Funimation-5B0BB5?style=for-the-badge&logo=funimation&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/GIPHY-FF6666?style=for-the-badge&logo=giphy&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/haveibeenpwned-2A6379?style=for-the-badge&logo=haveibeenpwned&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Ingress-783CBD?style=for-the-badge&logo=ingress&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/NASA-E03C31?style=for-the-badge&logo=nasa&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Nintendo Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" />]()
