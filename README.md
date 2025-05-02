@@ -2,8 +2,7 @@
 
 I've been in software development since 2004 and over the years have added a variety of knowledge and skills to my utility belt. I'm passionate about building tools and implementing automated processes which enable other developers within the organization to foucs on building the next great thing.
 
-### My preferred tech...
-[<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />]()
+### My preferred tech environment...
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" />]()
@@ -47,6 +46,7 @@ I've been in software development since 2004 and over the years have added a var
 [<img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />]()
 [<img src="https://img.shields.io/badge/Backendless-1D77BD?style=for-the-badge&logo=backendless&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />]()
